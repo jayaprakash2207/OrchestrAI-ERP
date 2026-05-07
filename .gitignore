@@ -29,6 +29,7 @@ Thumbs.db
 # Build artifacts
 dist/
 build/
+*.tsbuildinfo
 
 # Chroma / local data
 chroma/
